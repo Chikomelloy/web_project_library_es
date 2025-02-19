@@ -160,7 +160,7 @@
 .card__text {
   margin: 20px 0 0;
   font-size: 16px;
-  line-height: 20px;
+  line-height: 24px;
   flex-grow: 1;
   flex-shrink: 1;
 }
