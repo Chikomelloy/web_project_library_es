@@ -406,3 +406,8 @@
 .footer__copyright {
   padding: 100px 80px 60px;
 }
+.footer__space {
+  margin-right: auto;
+  width: 58px;
+  height: 80px;
+}
