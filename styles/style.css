@@ -44,6 +44,9 @@
   .nav__click:hover {
     color: rgb(93, 150, 231);
   }
+  .footer__columns-link:hover {
+    color: rgb(93, 150, 231);
+  }
 }
 
 .nav__link {
@@ -357,10 +360,14 @@
   align-items: normal;
 }
 
-.footer__column_content_hours {
+.footer__columns_content_hours {
+  display: flex;
+  flex-direction: column;
 }
 
-.footer__column_content_social {
+.footer__columns_content_social {
+  display: flex;
+  flex-direction: column;
 }
 
 .footer__logo {
@@ -385,7 +392,7 @@
   padding: 16px 80px;
 }
 
-.footer__column-link {
+.footer__columns-link {
   color: white;
   text-decoration: none;
 }
