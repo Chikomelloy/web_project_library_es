@@ -405,6 +405,7 @@
 
 .footer__copyright {
   padding: 100px 80px 60px;
+  margin: 0;
 }
 .footer__space {
   margin-right: auto;
