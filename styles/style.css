@@ -34,9 +34,9 @@
 
 .nav__links {
   display: flex;
-  justify-content: space-between; /* Distribuye los elementos */
-  column-gap: 20px; /* Espacio entre los elementos */
-  list-style-type: none; /* Elimina viñetas de la lista */
+  justify-content: space-between;
+  column-gap: 20px;
+  list-style-type: none;
   padding: 0;
   margin: 8px 0 0;
 }
@@ -57,8 +57,8 @@
 
 .header__content {
   display: flex;
-  align-items: center; /* Alinea verticalmente */
-  justify-content: space-between; /* Distribuye los elementos */
+  align-items: center;
+  justify-content: space-between;
   padding: 10px;
 }
 
